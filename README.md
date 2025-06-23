@@ -1,44 +1,85 @@
 # 👋 Hi, I'm Preethy Venkat
 
-🌱 DevOps | GitOps | Cloud-Native Engineer | AWS Developer Associate (in progress)
+🚀 Senior Cloud & DevOps Engineer | GitOps | Terraform | Kubernetes | AWS | Azure | CI/CD
+
+🔧 I specialize in building secure, resilient infrastructure using modern tools like GitHub Actions, Argo CD, and Terraform.  
+💻 Passionate about clean CI/CD pipelines, GitOps practices, and observability in distributed systems.
 
 ---
 
-### 🔧 What I Do
+## 🚀 Tech Stack
 
-I’m a DevOps and GitOps practitioner passionate about automation, infrastructure as code, and scalable cloud-native solutions.
+**Infrastructure as Code**:  
+Terraform • AWS CloudFormation
 
-🚀 **Technologies I work with:**
-- **Infrastructure as Code**: Terraform, AWS CloudFormation  
-- **GitOps Delivery**: Argo CD, GitLab CI/CD, GitHub Actions  
-- **Containerization & Orchestration**: Docker, Kubernetes (EKS)  
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions  
-- **Monitoring & Observability**: Datadog, Prometheus, Grafana, ELK Stack  
-- **Secrets Management**: CyberArk, AWS Secrets Manager, Azure Key Vault  
-- **Cloud**: AWS (S3, EC2, Lambda, IAM, VPC, CloudWatch)
+**GitOps Delivery**:  
+Argo CD • GitHub Actions • GitLab CI/CD • Azure DevOps
 
----
+**Containers & Orchestration**:  
+Docker • Kubernetes (EKS, AKS) • Helm • Karpenter
 
-### 💼 Projects I'm Proud Of
+**CI/CD Pipelines**:  
+GitHub Actions • Jenkins • Azure Pipelines • GitLab CI
 
-- 🔁 **GitOps Deployment on EKS with Argo CD**  
-  End-to-end setup with Terraform, Argo CD, and GitHub Actions  
-  → *Infrastructure as Code + Continuous Delivery in one repo*
+**Monitoring & Observability**:  
+Datadog • Prometheus • Grafana • ELK Stack • CloudWatch
 
-- 📦 **CI/CD Pipeline with GitLab for Dockerized Apps**  
-  Dockerized app build + Kubernetes deploy using GitLab CI/CD and Terraform
+**Secrets Management**:  
+CyberArk Conjur • AWS Secrets Manager • Azure Key Vault
 
-- 📊 **Observability Setup for Production-like Stack**  
-  Using Datadog, Prometheus, and Grafana to monitor workloads and alert on metrics
+**Cloud Platforms**:  
+AWS (S3, EC2, Lambda, IAM, VPC, EKS, CloudWatch) • Azure
 
----
-
-### 🧠 Currently Learning
-📚 Preparing for the **AWS Developer Associate Certification (Exam: June 10)**  
-🛠 Building projects daily to sharpen DevOps and GitOps delivery workflows
+**Scripting**:  
+Python • Bash
 
 ---
 
-### 📫 Let's Connect
-- 📧 preevenkat@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/preethy-venkat) *(optional)*
+## 💼 Projects I'm Proud Of
+
+### 🔁 GitOps Deployment on EKS with Argo CD  
+Full GitOps workflow on EKS using Argo CD and Helm  
+➡️ Infra provisioned via Terraform and CloudFormation  
+➡️ CI/CD powered by GitHub Actions  
+➡️ Features Karpenter for auto-scaling nodes  
+📍 *[Coming soon on GitHub]*
+
+---
+
+### 📦 CI/CD Pipeline with GitLab & Azure Pipelines  
+Built secure and scalable Dockerized app deployment pipelines  
+➡️ Terraform for infrastructure  
+➡️ GitLab CI and Azure DevOps for container orchestration on AKS/EKS  
+📍 *[Repo: azure-pipelines-vs-github-actions]*
+
+---
+
+### 📊 Observability Stack for Kubernetes  
+Set up full observability for microservices in EKS  
+➡️ Datadog, Prometheus, Grafana, and ELK integration  
+➡️ Includes Python scripts for log pruning, pod health checks  
+📍 *[Repo: eks-observability-stack]*
+
+---
+
+### 🐍 Python DevOps Toolkit  
+Automation scripts for real-world DevOps use cases  
+➡️ ELK index cleanup  
+➡️ Kubernetes probe checks  
+➡️ EKS target group health monitoring  
+📍 *[Repo: python-devops-scripts]*
+
+---
+
+## 🧠 Currently Learning
+
+- 📚 Studying for the **AWS Developer Associate Certification** *(Exam: July 2nd)*  
+- 🛠 contributing GitOps, and IaC through hands-on projects (Tradevue) daily
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: [preevenkat@gmail.com](mailto:preevenkat@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/preethyvenkat](https://www.linkedin.com/in/preethyvenkat/)  
+🌐 GitHub: [github.com/preethyvenkat](https://github.com/preethyvenkat)
