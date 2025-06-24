@@ -71,6 +71,20 @@ Automation scripts for real-world DevOps use cases
 
 ---
 
+## 🤖 MLOps Strategy & Experiments
+
+As part of my deep interest in bridging DevOps and ML, I've explored and implemented multiple MLOps strategies:
+
+- 📦 **CI/CD for ML Workflows**: Integrated ML model training, packaging, and deployment into standard CI/CD pipelines using GitHub Actions and Argo Workflows.
+- 🧪 **Model Validation & Drift Detection**: Used custom validation gates and Prometheus metrics to detect concept drift and performance degradation in deployed models.
+- 🚀 **Predictive Deployments**: Enhanced rollout decisions (blue/green, canary) using real-time model confidence scores and A/B performance metrics.
+- 📈 **ML-Aware Observability**: Integrated Grafana dashboards and alerts that monitor model latency, failure rate, and version accuracy over time.
+- 🔁 **Alert-Driven Infra Response**: Triggered scaling actions, Slack alerts, or rollback events based on model performance via Prometheus alert rules or Terraform triggers.
+
+These strategies reflect my passion for end-to-end automation and intelligent system design at the intersection of DevOps and AI/ML.
+
+---
+
 ## 🧠 Currently Learning
 
 - 📚 Studying for the **AWS Developer Associate Certification** *(Exam: July 2nd)*  
