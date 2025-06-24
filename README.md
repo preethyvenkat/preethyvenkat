@@ -16,7 +16,7 @@ Terraform • AWS CloudFormation
 Argo CD • GitHub Actions • GitLab CI/CD • Azure DevOps
 
 **Containers & Orchestration**:  
-Docker • Kubernetes (EKS, AKS) • Helm • Karpenter
+Docker • Kubernetes (EKS, AKS) • Helm • Karpenter • KEDA • Kuztomise
 
 **CI/CD Pipelines**:  
 GitHub Actions • Jenkins • Azure Pipelines • GitLab CI
