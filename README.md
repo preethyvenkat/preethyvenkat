@@ -2,7 +2,6 @@
 
 🌿 Certified AWS Developer Associate & GitOps Practitioner passionate about cloud-native DevOps, automation, and platform reliability.
 
-⸻
 
 🔧 Tech Stack
 	•	Cloud & Infra: AWS (EKS, EC2, IAM, VPC, CloudWatch), Terraform, Helm
@@ -11,16 +10,10 @@
 	•	CI/CD: GitHub Actions, Jenkins, GitOps workflows
 	•	Monitoring & Security: ELK Stack, Prometheus, Grafana, Datadog, SonarQube
 
-⸻
-
-
-⸻
-
 📘 Certifications
 	•	✅ AWS Certified Developer – Associate
 	•	✅ GitOps at Scale with Argo CD
 
-⸻
 
 🌱 Currently Exploring
 	•	MLOps workflows
